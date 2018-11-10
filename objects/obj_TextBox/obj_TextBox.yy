@@ -1,28 +1,28 @@
 {
-    "id": "3add3e2b-af4c-4b57-b047-f005385594ed",
+    "id": "f268ce41-85a9-46b6-abef-9ed5c0e73b11",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_BattleController",
+    "name": "obj_TextBox",
     "eventList": [
         {
-            "id": "b135146d-d186-4ba9-951a-26ea9d3ec493",
+            "id": "3394d437-aede-4f7f-8d6f-36da3dca0874",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 64,
             "eventtype": 8,
-            "m_owner": "3add3e2b-af4c-4b57-b047-f005385594ed"
+            "m_owner": "f268ce41-85a9-46b6-abef-9ed5c0e73b11"
         },
         {
-            "id": "4a873dc9-7791-486f-a137-920e19feabb6",
+            "id": "f0e99bac-c60a-4ae6-9c32-066e95d3efa4",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "3add3e2b-af4c-4b57-b047-f005385594ed"
+            "enumb": 1,
+            "eventtype": 9,
+            "m_owner": "f268ce41-85a9-46b6-abef-9ed5c0e73b11"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,7 +43,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "dede430a-4ef4-4815-a190-0c584ec4dd4b",
+            "id": "9bbbc9d4-6876-402a-a97e-e14eff714b58",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -52,26 +52,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "True",
-            "varName": "PartyTurn",
-            "varType": 3
-        },
-        {
-            "id": "a633c32d-8e7f-403c-a160-5c30bb03a20f",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "EnemyTurn",
-            "varType": 3
+            "value": "\"\"",
+            "varName": "textStr",
+            "varType": 2
         }
     ],
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "0afcdb1a-6d9a-4f5f-99c5-c3e1b720cb74",
     "visible": true
 }
