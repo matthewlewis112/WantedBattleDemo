@@ -69,6 +69,20 @@
             "value": "0",
             "varName": "EnemyTurn",
             "varType": 3
+        },
+        {
+            "id": "ee76231e-fa9e-4498-8ffe-a1898fb684b0",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "isDancing",
+            "varType": 3
         }
     ],
     "solid": false,

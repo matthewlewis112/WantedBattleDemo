@@ -2,7 +2,7 @@
 {
     "name": "BattleRoom",
     "id": "c4433230-680a-45e1-a709-0b7d44ffecae",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,

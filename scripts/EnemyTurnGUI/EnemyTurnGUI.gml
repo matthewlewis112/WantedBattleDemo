@@ -1,3 +1,6 @@
 CreateTextBox("The opponent attacks");
 
-obj_Player.HP -= obj_Opponent1.Attack;
+if (obj_BattleController.isDancing)
+	DancingMiniGame();
+else
+	obj_Player.HP -= obj_Opponent1.Attack;
