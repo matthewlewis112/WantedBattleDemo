@@ -381,6 +381,25 @@
             }
         },
         {
+            "Key": "4fb099a3-b2a5-4b3f-92a1-c25920e20b70",
+            "Value": {
+                "id": "d902f125-f829-430d-b6ff-f56932fe248b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/BattleMusic\/BattleMusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "506e23e8-1c1a-43cb-bc7f-1f8e64154cb0",
             "Value": {
                 "id": "535381f1-1e75-4415-8c37-f435632172f7",
@@ -514,6 +533,25 @@
             }
         },
         {
+            "Key": "77c08979-9c04-4628-8966-251bd2905a75",
+            "Value": {
+                "id": "b2a7217d-fde0-44a8-8468-58d142ce89d1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/EnemyAttack\/EnemyAttack.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "79777c5d-4922-4e85-8465-0624eb46ca90",
             "Value": {
                 "id": "7425a365-90bf-45e5-8bad-1e5e9e80958b",
@@ -530,6 +568,25 @@
                 ],
                 "resourcePath": "objects\/obj_AttackBox\/obj_AttackBox.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7a8f9309-366b-4604-8e10-47c98f3808bb",
+            "Value": {
+                "id": "5846a67d-1aca-459a-8104-58999cb79efa",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/PlayerAttack\/PlayerAttack.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -910,6 +967,25 @@
                 ],
                 "resourcePath": "scripts\/DancingMiniGame\/DancingMiniGame.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "c70bf3ee-2b68-433c-9fc7-f608027bd7be",
+            "Value": {
+                "id": "057ebadc-f889-4c44-ad66-e2074a433bad",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_Background\/spr_Background.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
