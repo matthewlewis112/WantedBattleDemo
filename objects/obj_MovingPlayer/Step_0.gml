@@ -7,3 +7,4 @@ down = keyboard_check(ord("S"));
 left = keyboard_check(ord("A"));
 
 PlayerMove(up, right, down, left);
+

@@ -53,7 +53,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/obj_Barrier\/obj_Barrier.yy",
+                "resourcePath": "objects\/obj_collide\/obj_collide.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -73,25 +73,6 @@
                     "default"
                 ],
                 "resourcePath": "objects\/obj_UpArrow\/obj_UpArrow.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "0977bbb2-bd9a-4d89-9345-7197dba6408f",
-            "Value": {
-                "id": "0413bc88-778e-4c03-a54a-e151e530a792",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/obj_collide\/obj_collide.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -263,6 +244,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/spr_Selector\/spr_Selector.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2d683d11-157a-4f92-bbbd-1378c9f7a17c",
+            "Value": {
+                "id": "d23aff80-4b3c-4780-9f31-a6eac400c4f4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_map\/spr_map.yy",
                 "resourceType": "GMSprite"
             }
         },
