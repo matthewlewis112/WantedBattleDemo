@@ -77,6 +77,25 @@
             }
         },
         {
+            "Key": "0977bbb2-bd9a-4d89-9345-7197dba6408f",
+            "Value": {
+                "id": "0413bc88-778e-4c03-a54a-e151e530a792",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_collide\/obj_collide.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0afcdb1a-6d9a-4f5f-99c5-c3e1b720cb74",
             "Value": {
                 "id": "32a5c899-0cbf-4c7f-ab57-c765f123b717",
