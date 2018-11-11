@@ -23,5 +23,7 @@ else
 	self.moveSpeed = 0;	
 }
 
+ChangePlayerAnimation();
+
 self.hspeed = self.xDirection * self.moveSpeed;
 self.vspeed = self.yDirection * self.moveSpeed;

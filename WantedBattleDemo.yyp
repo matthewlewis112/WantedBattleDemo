@@ -210,25 +210,6 @@
             }
         },
         {
-            "Key": "255ede71-f4e9-4af2-a2f7-8381b45f2c33",
-            "Value": {
-                "id": "e74be5d9-1fcb-4ea2-b6f4-51220d993c7e",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/spr_Left\/spr_Left.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "2c75e4e0-036d-44ab-820f-c66d3912db3e",
             "Value": {
                 "id": "1ed23aeb-5ade-41a5-b23a-fcb4f17bdd22",
@@ -362,9 +343,9 @@
             }
         },
         {
-            "Key": "47006160-a18a-4ebe-8dc9-2895fef939fc",
+            "Key": "491e467d-8398-41f7-bdb3-e6d4cadb68ff",
             "Value": {
-                "id": "5be526e1-a9bc-4e12-bd45-ae5c871e9696",
+                "id": "e012e016-4d9d-4894-bffd-72c0fbf1287b",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -376,7 +357,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/spr_Right\/spr_Right.yy",
+                "resourcePath": "sprites\/spr_playerMoveLeft\/spr_playerMoveLeft.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -457,6 +438,25 @@
             }
         },
         {
+            "Key": "59c9eccb-feda-4173-9701-6f394581f11a",
+            "Value": {
+                "id": "2cca5e1e-dd77-412a-a933-20e30d01d0fc",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_playerMoveRight\/spr_playerMoveRight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5d46122a-ccbf-46dc-9861-64174f21f9dd",
             "Value": {
                 "id": "19e32e1c-de51-4a9e-a037-0b49baeeb458",
@@ -530,25 +530,6 @@
                 ],
                 "resourcePath": "scripts\/AttackEnemy\/AttackEnemy.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "76cad89a-c63e-469b-975b-efe6f5238e47",
-            "Value": {
-                "id": "383e4575-0bce-4dcd-9c02-30407b0ac6f6",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/spr_Down\/spr_Down.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -723,6 +704,25 @@
             }
         },
         {
+            "Key": "8c491264-9062-427f-acbd-3ad1d0018fd2",
+            "Value": {
+                "id": "2d145188-d33f-49e3-9ea9-52a794da84d3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_playerMoveFront\/spr_playerMoveFront.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8f166015-f9b8-4f6b-8f51-d3b3b85abecd",
             "Value": {
                 "id": "fc1bd7b4-56b8-4a4b-b7bb-f15b8489cd89",
@@ -739,6 +739,25 @@
                 ],
                 "resourcePath": "sprites\/spr_BailBox\/spr_BailBox.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8f593933-13b5-44f2-ac06-63528e09d819",
+            "Value": {
+                "id": "d9b468b3-8179-45f8-acb8-e45089a7a302",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/ChangePlayerAnimation\/ChangePlayerAnimation.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -813,7 +832,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/spr_PlayerStandingSouth\/spr_PlayerStandingSouth.yy",
+                "resourcePath": "sprites\/spr_playerIdle\/spr_playerIdle.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -872,6 +891,25 @@
                 ],
                 "resourcePath": "scripts\/EnemyTurnGUI\/EnemyTurnGUI.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b763707d-623a-4aaf-9785-bcba88ab7dd1",
+            "Value": {
+                "id": "b2182982-ec0e-44e3-884a-9b6e1fafc929",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_battleWarp\/obj_battleWarp.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1084,6 +1122,25 @@
             }
         },
         {
+            "Key": "ebc95d50-c51f-48f3-9389-0b400af37b53",
+            "Value": {
+                "id": "eeb73a9e-a800-4fe3-8659-76b6a9903419",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_playerMoveBack\/spr_playerMoveBack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f268ce41-85a9-46b6-abef-9ed5c0e73b11",
             "Value": {
                 "id": "fbfa78ae-f6be-4acc-a9d0-b36ea3b487c6",
@@ -1119,6 +1176,25 @@
                 ],
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f5d6ec1c-0afc-45cd-96a4-9070dc77b01a",
+            "Value": {
+                "id": "1cb74fd2-9c4f-4231-9a10-1f1f4c1289a0",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_battleWarp\/spr_battleWarp.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1169,7 +1245,8 @@
         "302c630b-d8ef-402e-80fb-8f26c5118ac5",
         "1bd20b3f-b63b-4c00-a353-61094ba6187f",
         "ea8576cb-31e7-43fe-8403-b161428776ca",
-        "c552ba78-98da-49b3-8113-a18225b9f82e"
+        "c552ba78-98da-49b3-8113-a18225b9f82e",
+        "8f593933-13b5-44f2-ac06-63528e09d819"
     ],
     "tutorial": ""
 }

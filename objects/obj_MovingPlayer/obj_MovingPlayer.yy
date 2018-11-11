@@ -123,12 +123,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "6",
+            "value": "8",
             "varName": "maxSpeed",
             "varType": 1
         }
     ],
     "solid": true,
-    "spriteId": "506e23e8-1c1a-43cb-bc7f-1f8e64154cb0",
+    "spriteId": "a5e16940-3957-4392-82a6-4fd928e0302a",
     "visible": true
 }
