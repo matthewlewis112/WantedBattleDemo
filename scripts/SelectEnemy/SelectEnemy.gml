@@ -1,4 +1,4 @@
-instance_create_depth(830, 200, 0, obj_SelectorLeft);
+instance_create_depth(830, obj_Player.Attack, 0, obj_SelectorLeft);
 
 instance_destroy(obj_AttackBox);
 instance_destroy(obj_ChatBox);
